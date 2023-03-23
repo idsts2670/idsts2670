@@ -1,5 +1,5 @@
 # my skills
-[![My Skills](https://skillicons.dev/icons?i=r,mysql,python,github,aws,docker,flutter&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,mysql,python,github,aws,docker,vscode,excel,flutter&perline=15)](https://skillicons.dev)
 
 # status
 <p align="left"> 
